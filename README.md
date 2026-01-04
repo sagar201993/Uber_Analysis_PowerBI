@@ -142,7 +142,7 @@ The objective of this project is to support business and operations teams in:
 
 ## Data Model Overview
 
-![Data Model](https://github.com/sagar201993/Uber_Trip_Analysis_Dashboard/blob/main/model.png)
+![Data Model](https://github.com/sagar201993/Ube_Analysis_PowerBI/blob/main/model.png)
 
 ### Tables Used
 - Trip Details: Trip-level booking, fare, distance, time, and payment data
