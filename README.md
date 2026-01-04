@@ -24,7 +24,7 @@ The objective of this project is to support business and operations teams in:
 
 ## Overview Dashboard
 
-![Overview Dashboard](https://github.com/sagar201993/Uber_Trip_Analysis_Dashboard/blob/main/dash1.png)
+![Overview Dashboard](https://github.com/sagar201993/Ube_Analysis_PowerBI/blob/main/dash1.png)
 
 ### Business Questions Answered
 - How many total trips were completed?
@@ -44,7 +44,7 @@ The objective of this project is to support business and operations teams in:
 
 ## Time Analysis Dashboard
 
-![Time Analysis Dashboard](https://github.com/sagar201993/Uber_Trip_Analysis_Dashboard/blob/main/dash2.png)
+![Time Analysis Dashboard](https://github.com/sagar201993/Ube_Analysis_PowerBI/blob/main/dash2.png)
 
 ### Business Questions Answered
 - At what times of day is demand highest?
@@ -65,7 +65,7 @@ The objective of this project is to support business and operations teams in:
 
 ## Trip Details Dashboard
 
-![Trip Details Dashboard](https://github.com/sagar201993/Uber_Trip_Analysis_Dashboard/blob/main/dash3.png)
+![Trip Details Dashboard](https://github.com/sagar201993/Ube_Analysis_PowerBI/blob/main/dash3.png)
 
 ### Business Questions Answered
 - What are the characteristics of individual trips?
